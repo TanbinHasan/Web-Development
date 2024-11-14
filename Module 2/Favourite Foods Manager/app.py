@@ -9,7 +9,7 @@ while True:
 
   choice = int(input("Enter your choice: "))
 
-  if choice == 0:
+  if choice == 0: # Exit part of the code
     print("Thanks for using Favourite Foods Manager")
     break
 
