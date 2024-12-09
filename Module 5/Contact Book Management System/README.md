@@ -33,4 +33,4 @@ A Python-based Command-Line Interface (CLI) Contact Book Management System that 
 
 The following diagram illustrates the flow of data between the components in the system:
 
-![Diagram](assets/CBMS.png)
+![Diagram](https://github.com/TanbinHasan/Web-Development/blob/master/Module%205/assets/CBMS.png)
