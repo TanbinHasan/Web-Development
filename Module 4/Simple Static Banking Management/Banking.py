@@ -50,7 +50,6 @@ class Banking:
           break
       except ValueError: print("Please enter a valid integer amount.")
 
-
 def main():
   bank = Banking() # Open bank account
   while True:
