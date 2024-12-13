@@ -1,0 +1,41 @@
+{
+  "books": [
+    {
+      "title": "DSA",
+      "author": "Cormen",
+      "year": 2000,
+      "price": 3433.0,
+      "quantity": 321,
+      "isbn": 6122043,
+      "bookAddedAt": "2024-12-13 18:00:50",
+      "bookLastUpdatedAt": "2024-12-13 18:08:53"
+    },
+    {
+      "title": "DM",
+      "author": "Roseman",
+      "year": 2018,
+      "price": 333.0,
+      "quantity": 332,
+      "isbn": 2649835,
+      "bookAddedAt": "2024-12-13 18:07:38",
+      "bookLastUpdatedAt": "2024-12-13 18:16:04"
+    },
+    {
+      "title": "abc",
+      "author": "abd",
+      "year": 2024,
+      "price": 323.0,
+      "quantity": 33,
+      "isbn": 7770490,
+      "bookAddedAt": "2024-12-13 18:15:30",
+      "bookLastUpdatedAt": ""
+    }
+  ],
+  "lent_books": {
+    "2649835": {
+      "borrower_name": "Tania",
+      "borrower_phone": "0111111111111",
+      "due_date": "2024-12-20"
+    }
+  }
+}
