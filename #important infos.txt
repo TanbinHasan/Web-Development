@@ -1,1 +1,1 @@
-1. install postman
+install postman
