@@ -29,6 +29,16 @@
       "isbn": 7770490,
       "bookAddedAt": "2024-12-13 18:15:30",
       "bookLastUpdatedAt": ""
+    },
+    {
+      "title": "ador",
+      "author": "ador",
+      "year": 2024,
+      "price": 243.0,
+      "quantity": 343,
+      "isbn": 9226924,
+      "bookAddedAt": "2024-12-31 01:34:40",
+      "bookLastUpdatedAt": ""
     }
   ],
   "lent_books": {
