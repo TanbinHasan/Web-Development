@@ -1,0 +1,90 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav ul {
+  list-style: none;
+  background-color: #333;
+  padding: 1em;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+nav ul li {
+  display: inline;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  padding: 0.5em 1em;
+  transition: background 0.3s;
+}
+
+nav ul li a:hover {
+  background-color: #555;
+}
+
+#hero {
+  text-align: center;
+  padding: 4em 0;
+  background-color: #f4f4f4;
+}
+
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+#skills {
+  padding: 2em;
+  text-align: center;
+}
+
+.skill {
+  display: inline-block;
+  margin: 1em;
+  text-align: center;
+}
+
+.skill img {
+  width: 64px;
+  height: 64px;
+}
+
+#projects {
+  padding: 2em;
+  background-color: #f4f4f4;
+}
+
+.project {
+  margin-bottom: 1.5em;
+}
+
+.project a {
+  display: inline-block;
+  margin: 0.5em;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  background-color: #333;
+  color: white;
+  border-radius: 4px;
+}
+
+.project a:hover {
+  background-color: #555;
+}
+
+footer {
+  text-align: center;
+  padding: 1em 0;
+  background-color: #333;
+  color: white;
+}
+
