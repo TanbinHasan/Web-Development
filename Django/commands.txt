@@ -1,0 +1,16 @@
+creating a Virtual Environment with virtualenv:
+	sudo apt install python3-virtualenv
+	virtualenv venv
+	source venv/bin/activate
+	pip install <package-name>
+
+create Django project: django-admin startproject source_name
+activation of venv: source venv/bin/activate
+	
+run commands: 
+	python3 manage.py --help
+	python3 manage.py <help_commands>
+	
+	frequently used:
+	python3 manage.py runserver
+	python3 manage.py startapp app_name
