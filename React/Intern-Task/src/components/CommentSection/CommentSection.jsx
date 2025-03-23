@@ -97,7 +97,7 @@ const CommentSection = ({ postId }) => {
         )}
         
         {/* Comment form */}
-        <CommentForm postId={postId} />
+        {/* <CommentForm postId={postId} /> */}
       </div>
     </div>
   );
